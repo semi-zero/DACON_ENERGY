@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-  <img src="main1.png" width="500" height="500" /> 
+  <img src="에너지.png" width="500" height="500" /> 
 </p>
 
 <br/>
